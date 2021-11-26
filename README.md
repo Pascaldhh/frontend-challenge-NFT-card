@@ -1,1 +1,1 @@
-frontend-challenge-NFT-card
+Frontend Mentor challenge | NFT preview card component challenge hub 
